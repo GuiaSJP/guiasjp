@@ -7,6 +7,7 @@
  */
 
 echo 'testando';
+echo 'pudim';
 
 //var_dump($_SERVER);
 /**
