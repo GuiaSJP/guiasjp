@@ -6,8 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'teste'; 
-echo 'teste'; 
+echo 'testando';
 
 var_dump($_SERVER);
 /**
