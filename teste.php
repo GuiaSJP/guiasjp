@@ -8,9 +8,11 @@
 
 echo 'testando';
 
-var_dump($_SERVER);
+//var_dump($_SERVER);
 /**
  * 
+ * meu comentario 
  * 
- * 
+ * meu segundo comentario
  */
+echo 'Teste carlos'; 
