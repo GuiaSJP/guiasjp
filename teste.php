@@ -6,9 +6,9 @@
  * and open the template in the editor.
  */
 
-echo 'teste'; 
+echo 'teste<br>'; 
 
-var_dump($_SERVER);
+//var_dump($_SERVER);
 /**
  * 
  * meu comentario
